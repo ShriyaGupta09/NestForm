@@ -204,7 +204,7 @@ npm start
 
 # Author
 
-### Shriya Gupta
+### Name: Shriya Gupta
 ### Email: 9shriyag@gmail.com
 
 
