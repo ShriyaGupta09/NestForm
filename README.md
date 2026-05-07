@@ -37,7 +37,7 @@ A full-stack project built using **React + Node.js (Express)** that allows users
 # 📁 Project Structure
 
 
-
+```bash
 task/
 │
 ├── client/
@@ -84,7 +84,7 @@ task/
 │
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
